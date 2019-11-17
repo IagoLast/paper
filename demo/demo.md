@@ -1,8 +1,5 @@
 <h1 style="text-align: center"> Paper </h1>
-
 <div style="text-align: center"><small>IagoLast - 2019</small></div>
-
-
 
 ___
 

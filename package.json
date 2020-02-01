@@ -1,0 +1,30 @@
+{
+  "name": "@iagolast/paper",
+  "version": "0.0.0",
+  "description": "Typora theme for the academy",
+  "main": "paper.css",
+  "dependencies": {},
+  "devDependencies": {
+    "conventional-changelog-cli": "^2.0.31"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "conventional-changelog" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IagoLast/paper.git"
+  },
+  "keywords": [
+    "Typora",
+    "theme",
+    "latex",
+    "paper"
+  ],
+  "author": "@iagolast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IagoLast/paper/issues"
+  },
+  "homepage": "https://github.com/IagoLast/paper#readme"
+}

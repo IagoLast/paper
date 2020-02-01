@@ -1,15 +1,12 @@
 {
   "name": "@iagolast/paper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Typora theme for the academy",
   "main": "paper.css",
   "dependencies": {},
-  "devDependencies": {
-    "conventional-changelog-cli": "^2.0.31"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "conventional-changelog" 
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -26,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/IagoLast/paper/issues"
   },
-  "homepage": "https://github.com/IagoLast/paper#readme"
+  "homepage": "https://github.com/IagoLast/paper#readme",
+  "devDependencies": {
+    "standard-version": "^7.1.0"
+  }
 }

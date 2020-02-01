@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/IagoLast/paper/compare/v0.0.1...v0.0.2) (2020-02-01)
+
+
+### Features
+
+* Make fonts smaller on code-blocks and change page breaks on print mode ([37a7e38](https://github.com/IagoLast/paper/commit/37a7e3836df2b1b666c0d36c70f51f13d5bedd64))
+
 ### 0.0.1 (2020-02-01)
 
 

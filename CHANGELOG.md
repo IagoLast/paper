@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/IagoLast/paper/compare/v0.0.2...v0.0.3) (2020-02-15)
+
+
+### Features
+
+* Add pandoc support ([0a361a0](https://github.com/IagoLast/paper/commit/0a361a0544091ac9b9c2744aba021c686ea56ecc))
+
 ### [0.0.2](https://github.com/IagoLast/paper/compare/v0.0.1...v0.0.2) (2020-02-01)
 
 

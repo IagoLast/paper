@@ -1,6 +1,6 @@
 {
   "name": "@iagolast/paper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Typora theme for the academy",
   "main": "paper.css",
   "dependencies": {},
